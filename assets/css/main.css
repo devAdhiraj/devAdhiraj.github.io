@@ -2779,10 +2779,10 @@ body.is-preload #header footer {
 
 .myButton {
   background: #fff;
-  color: rgb(0, 233, 136);
+  color: rgb(0, 0, 225);
   /* border-color: none; */
   /* border: none; */
-  border-color: rgb(0, 233, 136);
+  border-color: rgb(0, 0, 225);
   border-width: 4px;
   outline: none;
 }
