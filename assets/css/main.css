@@ -2786,3 +2786,12 @@ body.is-preload #header footer {
   border-width: 4px;
   outline: none;
 }
+
+.correctAns {
+  color: green;
+  display: none;
+}
+#wrongAns {
+  color: red;
+  display: none;
+}
