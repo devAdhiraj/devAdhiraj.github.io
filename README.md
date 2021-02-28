@@ -23,3 +23,6 @@ By spending time and working on this project, we were able to learn many new thi
 
 ## What's next for Learning Financial Literacy Website 
 Some next steps would be to include much more detailed and professional information on more topics related to finance such as investing, taxes and the stock market. Making the website have more sections and organization would be a good step. Making the interactive portions be more diverse is a change that would greatly improve the product.
+
+## Note
+In the interest of time, we used an (https://html5up.net/)[HTML5] template which allowed us to use some pre-built styles. However, we still needed to understand and heavily modify the styles to adapt to our product. As a result, we worked on the (assets/css/main.css)[main.css] file, (index.html)[index.html] and (assets/js/button.js)[button.js] files specifically.
