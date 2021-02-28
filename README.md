@@ -25,4 +25,4 @@ By spending time and working on this project, we were able to learn many new thi
 Some next steps would be to include much more detailed and professional information on more topics related to finance such as investing, taxes and the stock market. Making the website have more sections and organization would be a good step. Making the interactive portions be more diverse is a change that would greatly improve the product.
 
 ## Note
-In the interest of time, we used an [HTML5](https://html5up.net/) template which allowed us to use some pre-built styles. However, we still needed to understand and heavily modify the styles to adapt to our product. As a result, we worked on the [main.css](assets/css/main.css) file, [index.html](index.html) and [button.js](assets/js/button.js) files specifically.
+In the interest of time, we used an [HTML5](https://html5up.net/) template which allowed us to use some pre-built styles. However, we still needed to understand and heavily modify the styles to adapt to our product. As a result, we worked on the [main.css](assets/css/main.css) file, [index.html](index.html) and [Button.js](assets/js/Button.js) files specifically.
